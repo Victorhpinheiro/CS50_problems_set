@@ -34,9 +34,52 @@ Professor [David Malan](http://cs.harvard.edu/malan/)
 
 ## Exercicios:
 
--[Aula_1](/Aula_1):
-   * [population_growth](/Aula_1/population_growth.c)
-   * [hello](/Aula_1/hello.c)
-   * [mario](/Aula_1/mario.c)
-   * [cash](/Aula_1/cash.c)
+-[pset1](/pset1):
+   * [population_growth](/pset1/population_growth.c)
+   * [hello](/pset1/hello.c)
+   * [mario](/pset1/mario.c)
+   * [cash](/pset1/cash.c)
+
+-[pset2](/pset2):
+   * [readability](/pset2/readability.c)
+   * [scrabble](/pset2/scrabble.c)
+   * [ceasar](/pset2/ceasar.c)
+
+-[pset3](/pset3):
+   * [sort](/pset3/sort.txt)
+   * [plurality](/pset3/plurality.c)
+   * [runoff](/pset3/runoff.c)
+
+-[pset4](/pset4):
+   * [volume](/pset4/volume.c)
+   * [filter](/pset4/filter.c)
+   * [recover](/pset4/recover.c)
+
+-[pset5](/pset5):
+   * [inheritance](/pset5/inheritance.c)
+   * [speller](/pset5/speller.c)
+
+-[pset6](/pset6):
+   * [World_Cup](/pset6/World_Cup.py)
+   * [Hello](/pset6/Hello.py)
+   * [Mario](/pset6/Mario.py)
+   * [Cash](/pset6/Cash.py)
+   * [Readability](/pset6/Readability.py)
+   * [DNA](/pset6/DNA.py)
+
+-[pset7](/pset7):
+   * [songs](/pset7/lab7)
+   * [movies](/pset7/movies)
+   * [fiftyville](/pset7/fiftyville)
+      
+-[pset8](/pset8):
+   * [trivia](/pset8/trivia)
+   * [homepage](/pset8/homepage)
+
+-[pset9](/pset9):
+   * [birthdays](/pset9/lab9)
+   * [finance](/pset9/finance)
+   
+## Certificado
+  <img src = "https://certificates.cs50.io/980ffe43-aec0-4b74-90ca-1086c5d77d50.png?size=letter">
 
