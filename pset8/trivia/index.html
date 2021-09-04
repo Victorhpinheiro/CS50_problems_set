@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+
+            document.addEventListener('DOMContentLoaded', function(){
+                document.querySelector('#blues').onclick = function(){
+
+                    document.querySelector('#blues').style.backgroundColor = 'green';
+                    verify1.innerHTML = 'corret!';
+                };
+                document.querySelector('#rock').onclick = function(){
+                    document.querySelector('#rock').style.backgroundColor = 'red';
+                    verify1.innerHTML = "corret!";
+                };
+                document.querySelector('#kpop').onclick = function(){
+                    document.querySelector('#kpop').style.backgroundColor = 'red';
+                    verify1.innerHTML = "corret!";
+                };
+
+                let input = document.querySelector('input');
+                let verify = document.querySelector('#verify');
+
+                document.querySelector('#check').addEventListener('click', function() {
+                    if (input.value === 'rock'){
+                        input.style.backgroundColor = 'green';
+                        verify.innerHTML = 'corret!';
+
+                    }
+                    else {
+                        input.style.backgroundColor = 'red';
+                        verify.innerHTML = "incorret!";
+                    }
+                });
+
+            });
+
+        </script>
+
+
+    </head>
+    <body>
+
+        <div class="jumbotron">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>What is my favorite music genre?</h3>
+                <button id="blues" type="button">Blues</button>
+                <button id="rock" type="button">Rock</button>
+                <button id="kpop" type="button">K-pop</button>
+                <p id="verify1"></p>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>What is my favorite music genre?</h3>
+                <form>
+                    <input type="text" name=check>
+                    <button id="check">Check</button>
+                    <p id="verify"></p>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </body>
+</html>
