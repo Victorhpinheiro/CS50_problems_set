@@ -46,7 +46,6 @@ Professor [David Malan](http://cs.harvard.edu/malan/)
    * [substitution](/pset2/substitution.c)
 
 -[pset3](/pset3):
-   * [sort](/pset3/sort.txt)
    * [plurality](/pset3/plurality.c)
    * [runoff](/pset3/runoff.c)
 
@@ -61,10 +60,10 @@ Professor [David Malan](http://cs.harvard.edu/malan/)
 
 -[pset6](/pset6):
    * [Tournament](/pset6/tournament.py)
-   * [Hello](/pset6/Hello.py)
-   * [Mario](/pset6/Mario.py)
-   * [Cash](/pset6/Cash.py)
-   * [Readability](/pset6/Readability.py)
+   * [Hello](/pset6/hello.py)
+   * [Mario](/pset6/mario.py)
+   * [Cash](/pset6/cash.py)
+   * [Readability](/pset6/readability.py)
    * [DNA](/pset6/dna.py)
 
 -[pset7](/pset7):
