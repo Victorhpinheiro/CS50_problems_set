@@ -43,7 +43,7 @@ Professor [David Malan](http://cs.harvard.edu/malan/)
 -[pset2](/pset2):
    * [readability](/pset2/readability.c)
    * [scrabble](/pset2/scrabble.c)
-   * [ceasar](/pset2/ceasar.c)
+   * [substitution](/pset2/substitution.c)
 
 -[pset3](/pset3):
    * [sort](/pset3/sort.txt)
@@ -60,12 +60,12 @@ Professor [David Malan](http://cs.harvard.edu/malan/)
    * [speller](/pset5/speller.c)
 
 -[pset6](/pset6):
-   * [World_Cup](/pset6/World_Cup.py)
+   * [Tournament](/pset6/tournament.py)
    * [Hello](/pset6/Hello.py)
    * [Mario](/pset6/Mario.py)
    * [Cash](/pset6/Cash.py)
    * [Readability](/pset6/Readability.py)
-   * [DNA](/pset6/DNA.py)
+   * [DNA](/pset6/dna.py)
 
 -[pset7](/pset7):
    * [songs](/pset7/lab7)
@@ -81,5 +81,5 @@ Professor [David Malan](http://cs.harvard.edu/malan/)
    * [finance](/pset9/finance)
    
 ## Certificado
-  <img src = "https://certificates.cs50.io/980ffe43-aec0-4b74-90ca-1086c5d77d50.png?size=letter">
+  <img src="https://certificates.cs50.io/980ffe43-aec0-4b74-90ca-1086c5d77d50.png?size=letter">
 
